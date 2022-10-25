@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "categoryId": "01",
-    "categoryName": "Data Structure",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "01",
+    "courseName": "Data Structure",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
@@ -15,9 +15,9 @@
   },
   {
     "id": "2",
-    "categoryId": "02",
-    "categoryName": "Algorithm",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "02",
+    "courseName": "Algorithm",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
@@ -29,9 +29,9 @@
   },
   {
     "id": "3",
-    "categoryId": "03",
-    "categoryName": "Object Oriented Programming",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "03",
+    "courseName": "Object Oriented Programming",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
@@ -43,9 +43,9 @@
   },
   {
     "id": "4",
-    "categoryId": "04",
-    "categoryName": "Artificial Intelligence",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "04",
+    "courseName": "Artificial Intelligence",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
@@ -57,9 +57,9 @@
   },
   {
     "id": "5",
-    "categoryId": "05",
-    "categoryName": "Mobile App Development",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "05",
+    "courseName": "Mobile App Development",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
@@ -71,9 +71,9 @@
   },
   {
     "id": "6",
-    "categoryId": "06",
-    "categoryName": "Neural Network and Fuzzy Systems",
-    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "courseId": "06",
+    "courseName": "Neural Network and Fuzzy Systems",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
       "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",

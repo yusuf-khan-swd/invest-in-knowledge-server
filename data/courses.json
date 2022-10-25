@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "courseId": "01",
+    "courseName": "Data Structure",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  },
+  {
+    "id": "2",
+    "courseId": "02",
+    "courseName": "Algorithm",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  },
+  {
+    "id": "3",
+    "courseId": "03",
+    "courseName": "Object Oriented Programming",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  },
+  {
+    "id": "4",
+    "courseId": "04",
+    "courseName": "Artificial Intelligence",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  },
+  {
+    "id": "5",
+    "courseId": "05",
+    "courseName": "Mobile App Development",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  },
+  {
+    "id": "6",
+    "courseId": "06",
+    "courseName": "Neural Network and Fuzzy Systems",
+    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
+  }
+]
