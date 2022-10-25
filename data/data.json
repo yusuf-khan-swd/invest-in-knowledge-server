@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "categoryId": "01",
+    "categoryName": "Data Structure",
+    "categoryImg": "image is here"
+  },
+  {
+    "id": "2",
+    "categoryId": "02",
+    "categoryName": "Data Structure",
+    "categoryImg": "image is here"
+  },
+  {
+    "id": "3",
+    "categoryId": "03",
+    "categoryName": "Data Structure",
+    "categoryImg": "image is here"
+  },
+  {
+    "id": "4",
+    "categoryId": "04",
+    "categoryName": "Data Structure",
+    "categoryImg": "image is here"
+  },
+  {
+    "id": "5",
+    "categoryId": "05",
+    "categoryName": "Data Structure",
+    "categoryImg": "image is here"
+  }
+]
