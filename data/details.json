@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "categoryId": "01",
+    "categoryName": "Data Structure",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  },
+  {
+    "id": "2",
+    "categoryId": "02",
+    "categoryName": "Algorithm",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  },
+  {
+    "id": "3",
+    "categoryId": "03",
+    "categoryName": "Object Oriented Programming",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  },
+  {
+    "id": "4",
+    "categoryId": "04",
+    "categoryName": "Artificial Intelligence",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  },
+  {
+    "id": "5",
+    "categoryId": "05",
+    "categoryName": "Mobile App Development",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  },
+  {
+    "id": "6",
+    "categoryId": "06",
+    "categoryName": "Data Structure",
+    "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "details": [
+      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
+      "More precisely, a data structure is a collection of data values.",
+      "The relationships among them.",
+      "nd the functions or operations that can be applied to the data",
+      "example:  it is an algebraic structure about data."
+    ]
+  }
+  
+]
