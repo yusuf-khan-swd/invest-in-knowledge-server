@@ -8,25 +8,25 @@
   {
     "id": "2",
     "categoryId": "02",
-    "categoryName": "Data Structure",
+    "categoryName": "Algorithm",
     "categoryImg": "image is here"
   },
   {
     "id": "3",
     "categoryId": "03",
-    "categoryName": "Data Structure",
+    "categoryName": "Object Oriented Programming",
     "categoryImg": "image is here"
   },
   {
     "id": "4",
     "categoryId": "04",
-    "categoryName": "Data Structure",
+    "categoryName": "Artificial Intelligence",
     "categoryImg": "image is here"
   },
   {
     "id": "5",
     "categoryId": "05",
-    "categoryName": "Data Structure",
+    "categoryName": "Mobile App Development",
     "categoryImg": "image is here"
   }
 ]
