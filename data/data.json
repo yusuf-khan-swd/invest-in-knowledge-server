@@ -28,5 +28,11 @@
     "categoryId": "05",
     "categoryName": "Mobile App Development",
     "categoryImg": "image is here"
+  },
+  {
+    "id": "6",
+    "categoryId": "06",
+    "categoryName": "Neural Network and Fuzzy Systems",
+    "categoryImg": "image is here"
   }
 ]
