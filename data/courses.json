@@ -3,36 +3,42 @@
     "id": "1",
     "courseId": "01",
     "courseName": "Data Structure",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   },
   {
     "id": "2",
     "courseId": "02",
     "courseName": "Algorithm",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   },
   {
     "id": "3",
     "courseId": "03",
     "courseName": "Object Oriented Programming",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   },
   {
     "id": "4",
     "courseId": "04",
     "courseName": "Artificial Intelligence",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   },
   {
     "id": "5",
     "courseId": "05",
     "courseName": "Mobile App Development",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   },
   {
     "id": "6",
     "courseId": "06",
     "courseName": "Neural Network and Fuzzy Systems",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg"
   }
 ]
