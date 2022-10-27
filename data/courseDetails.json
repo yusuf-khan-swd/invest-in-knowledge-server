@@ -3,6 +3,7 @@
     "id": "1",
     "courseId": "01",
     "courseName": "Data Structure",
+    "price": "559",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
@@ -17,6 +18,7 @@
     "id": "2",
     "courseId": "02",
     "courseName": "Algorithm",
+    "price": "120",
     "description": "In mathematics and computer science, an algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems.",
     "img": "https://www.investopedia.com/thmb/s56ubR5UguDpmw4xitrCznhYbp4=/735x0/algorithm-8507b849b8ee48e5887fda56916dd037.png",
     "details": [
@@ -31,6 +33,7 @@
   {
     "id": "3",
     "courseId": "03",
+    "price": "220",
     "courseName": "Object Oriented Programming",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
@@ -46,6 +49,7 @@
     "id": "4",
     "courseId": "04",
     "courseName": "Artificial Intelligence",
+    "price": "820",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
     "details": [
@@ -59,6 +63,7 @@
   {
     "id": "5",
     "courseId": "05",
+    "price": "320",
     "courseName": "Mobile App Development",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
@@ -73,6 +78,7 @@
   {
     "id": "6",
     "courseId": "06",
+    "price": "220",
     "courseName": "Neural Network and Fuzzy Systems",
     "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
     "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
