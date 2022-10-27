@@ -103,6 +103,22 @@
       "Hierarchical Database: It is a system where the data elements have a one to many relationship (1: N). Here data is organized like a tree which is similar to a folder structure in your computer system.",
       "Network database: A Network database management system is a system where the data elements maintain one to one relationship (1: 1) or many to many relationship (N: N)."
     ]
+  },
+  {
+    "id": "8",
+    "courseId": "08",
+    "price": "799",
+    "courseName": "Machine Learning for Big Data Analytics",
+    "description": "Machine Learning and Big Data are the blue-chips of the current IT Industry. The big data stores analyze and extract information out of bulk data sets. On the other hand, Machine learning is the ability to automatically learn and improve from experience without being explicitly programmed.",
+    "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Five-Vs-of-Big-Data-What-is-Big-Data-Edureka-768x432.png",
+    "details": [
+      "Machine Learning is defined as automated data processing and decision-making algorithms designed to improve at every stage of their assigned task based on their experience. In other words, “Evolve through Learning” ",
+      "Volume: The gravitas that the term big data owns is because of its volume.",
+      "Velocity: The superiority of processing data with high accuracy and speed.",
+      "Variety: The different types of data, Structured, Unstructured and Semi-Structured.",
+      "Veracity: The quality and consistency of data.",
+      "Value: The end-stage is to extract useful data."
+    ]
   }
   
 ]

@@ -47,5 +47,12 @@
     "courseName": "Database Management System",
     "description": "A database management system (DBMS) is software to create and manage databases, allowing users to create, read, update and delete data in a database.",
     "img": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/05/Database-Management-System-DBMS-components-reporting-data-utilities-monitoring-query-language-storage-engine-and-access-controls..jpg"
+  },
+  {
+    "id": "8",
+    "courseId": "08",
+    "courseName": "Machine Learning for Big Data Analytics",
+    "description": "Machine Learning and Big Data are the blue-chips of the current IT Industry. The big data stores analyze and extract information out of bulk data sets. On the other hand, Machine learning is the ability to automatically learn and improve from experience without being explicitly programmed.",
+    "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Five-Vs-of-Big-Data-What-is-Big-Data-Edureka-768x432.png"
   }
 ]
