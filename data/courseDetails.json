@@ -78,16 +78,16 @@
   {
     "id": "6",
     "courseId": "06",
-    "price": "220",
+    "price": "920",
     "courseName": "Neural Network and Fuzzy Systems",
-    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
-    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "description": "A fuzzy neural network or neuro-fuzzy system is a learning machine that finds the parameters of a fuzzy system (i.e., fuzzy sets, fuzzy rules) by exploiting approximation techniques from neural networks.",
+    "img": "https://www.researchgate.net/profile/Abdel-Fattah-Attia/publication/233432681/figure/fig1/AS:669971139010569@1536744975557/Fuzzy-logic-neural-network-topology.png",
     "details": [
-      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
-      "More precisely, a data structure is a collection of data values.",
-      "The relationships among them.",
-      "nd the functions or operations that can be applied to the data",
-      "example:  it is an algebraic structure about data."
+      "Fuzzy logic is a reasoning method that is similar to human reasoning. In other words, a fuzzy logic-based system can make decisions similar to a human.",
+      "A neural network is a network that is similar to a human brain. In other words, a neural network is inspired by biological neurons. There are millions of neurons in the human brain, and the information passes from one neuron to another. A neural network works similar to that and is capable of performing computations faster.",
+      "In brief, programmers use fuzzy logic and neural networks to develop applications.",
+      "A neuro-fuzzy system based on an underlying fuzzy system is trained by means of a data-driven learning method derived from neural network theory. This heuristic only takes into account local information to cause local changes in the fundamental fuzzy system.",
+      "It can be represented as a set of fuzzy rules at any time of the learning process, i.e., before, during and after."
     ]
   }
   
