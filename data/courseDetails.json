@@ -65,14 +65,14 @@
     "courseId": "05",
     "price": "320",
     "courseName": "Mobile App Development",
-    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
-    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer.",
+    "img": "https://www.seasiainfotech.com/blog/wp-content/uploads/2021/11/Stats-of-mobile-app-development-1024x683.png",
     "details": [
-      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
-      "More precisely, a data structure is a collection of data values.",
-      "The relationships among them.",
-      "nd the functions or operations that can be applied to the data",
-      "example:  it is an algebraic structure about data."
+      "These applications can be pre-installed on phones during manufacturing platforms",
+      "Or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an application-like experience within a web browser.",
+      "Application software developers also must consider a long array of screen sizes, hardware specifications",
+      "And configurations because of intense competition in mobile software and changes within each of the platforms.",
+      "Mobile app development has been steadily growing, in revenues and jobs created"
     ]
   },
   {
