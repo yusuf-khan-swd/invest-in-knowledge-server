@@ -89,6 +89,20 @@
       "A neuro-fuzzy system based on an underlying fuzzy system is trained by means of a data-driven learning method derived from neural network theory. This heuristic only takes into account local information to cause local changes in the fundamental fuzzy system.",
       "It can be represented as a set of fuzzy rules at any time of the learning process, i.e., before, during and after."
     ]
+  },
+  {
+    "id": "7",
+    "courseId": "07",
+    "price": "490",
+    "courseName": "Database Management System",
+    "description": "A database management system (DBMS) is software to create and manage databases, allowing users to create, read, update and delete data in a database.",
+    "img": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/05/Database-Management-System-DBMS-components-reporting-data-utilities-monitoring-query-language-storage-engine-and-access-controls..jpg",
+    "details": [
+      "A relational database management system (RDBMS): is a system where data is organized in two-dimensional tables using rows and columns.This is one of the most popular data models which is used in industries. It is based on SQL.",
+      "Object Oriented Database: It is a system where information or data is represented in the form of objects which is used in object-oriented programming.",
+      "Hierarchical Database: It is a system where the data elements have a one to many relationship (1: N). Here data is organized like a tree which is similar to a folder structure in your computer system.",
+      "Network database: A Network database management system is a system where the data elements maintain one to one relationship (1: 1) or many to many relationship (N: N)."
+    ]
   }
   
 ]
