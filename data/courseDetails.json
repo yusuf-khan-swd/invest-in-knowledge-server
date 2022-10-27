@@ -35,14 +35,14 @@
     "courseId": "03",
     "price": "220",
     "courseName": "Object Oriented Programming",
-    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
-    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "description": "Object-oriented programming is a programming paradigm based on the concept of objects, which can contain data and code.",
+    "img": "https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png",
     "details": [
-      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
-      "More precisely, a data structure is a collection of data values.",
-      "The relationships among them.",
-      "nd the functions or operations that can be applied to the data",
-      "example:  it is an algebraic structure about data."
+      "The four pillars of object oriented programming are:.",
+      "Inheritance: child classes inherit data and behaviors from parent class.",
+      "Encapsulation: containing information in an object, exposing only selected information",
+      "Abstraction: only exposing high level public methods for accessing an object",
+      "Polymorphism: many methods can do the same task"
     ]
   },
   {
