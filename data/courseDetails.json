@@ -48,16 +48,16 @@
   {
     "id": "4",
     "courseId": "04",
-    "courseName": "Artificial Intelligence",
     "price": "820",
-    "img": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
-    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+    "courseName": "Artificial Intelligence",
+    "description": "In the simplest terms, AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect.",
+    "img": "https://www.codingdojo.com/blog/wp-content/uploads/ai-v2-img3.jpg",
     "details": [
-      "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data.",
-      "More precisely, a data structure is a collection of data values.",
-      "The relationships among them.",
-      "nd the functions or operations that can be applied to the data",
-      "example:  it is an algebraic structure about data."
+      "Artificial intelligence (AI) refers to the simulation or approximation of human intelligence in machines.",
+      "The goals of artificial intelligence include computer-enhanced learning, reasoning, and perception.",
+      "AI is being used today across different industries from finance to healthcare.",
+      "Weak AI tends to be simple and single-task oriented, while strong AI carries on tasks that are more complex and human-like.",
+      "Some critics fear that the extensive use of advanced AI can have a negative effect on society."
     ]
   },
   {
